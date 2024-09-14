@@ -39,3 +39,5 @@ python main.py
 - **Tkinter**: A standard Python library for creating graphical user interfaces.
 
 This application combines machine learning, GUI development, database management, logging, and concurrency to provide a comprehensive tool for predicting house prices.
+
+![Screenshot](assets/screenshot.PNG)
