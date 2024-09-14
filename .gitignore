@@ -8,4 +8,11 @@ __pycache__/
 # Ignore database files
 *.db
 
+# Ignore virtual environment
+venv/
+
+# Ignore PyInstaller build directories
+build/
+dist/
+*.spec
 
