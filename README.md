@@ -7,6 +7,30 @@ he House Price Predictor is a Python application that predicts house prices base
 3. **Train the Model**: Click "Train Model" to train the linear regression model with the stored data.
 4. **Make Predictions**: Enter a house size and click "Predict" to get the predicted price.
 
+- **Clone the Repository from GitHub**: Open the integrated terminal in Visual Studio and clone the repository using the git clone command followed by the GitHub repository URL.
+
+```bash
+git clone https://github.com/username/House-Price-Predictor-Application.git 
+```
+
+- **Navigate to the Project Directory**: Change to the project directory that you just cloned.
+
+```bash
+cd House-Price-Predictor-Application
+```
+
+- **Install Dependencies**: Install all the necessary dependencies listed in the requirements.txt file.
+
+```bash
+pip install -r requirements.txt
+```
+
+- **Run the Application**: Start the application by running the main.py file.
+
+```bash
+python main.py
+```
+
 ## Concepts Used
 - **Linear Regression**: A statistical method to model the relationship between a dependent variable and one or more independent variables. In this application, it is used to predict house prices based on their sizes. The model finds the best-fit line that minimizes the difference between the actual and predicted values.
 - **Logging**: Recording events that happen during the execution of the program.
